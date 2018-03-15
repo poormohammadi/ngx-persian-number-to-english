@@ -1,0 +1,28 @@
+{
+  "name": "ngx-persian-number-to-english",
+  "version": "1.0.1",
+  "description": "This package contains a directive which converts persian number to english in any input tag you want",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poormohammadi/ngx-persian-number-to-english.git"
+  },
+  "keywords": [
+    "persian-number-to-english",
+    "persian-number",
+    "persian",
+    "convert",
+    "persian",
+    "to",
+    "english"
+  ],
+  "author": "Ali Poormohammadi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/poormohammadi/ngx-persian-number-to-english/issues"
+  },
+  "homepage": "https://github.com/poormohammadi/ngx-persian-number-to-english#readme"
+}
